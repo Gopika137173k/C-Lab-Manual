@@ -376,6 +376,7 @@ int main() {
     return 0;
 }
 ```
+
 Output:
 output 1
 Front element: 5
